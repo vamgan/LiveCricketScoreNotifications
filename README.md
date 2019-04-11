@@ -15,7 +15,7 @@ pip install requests
 pip install win10toast
 ```
 
-Install all this these dependencies before running the main file.
+Install all the dependencies before running the main file.
 
 ## Authors
 
